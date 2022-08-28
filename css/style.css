@@ -158,7 +158,7 @@ a:hover {
 
 
 
-/*header*/
+/*header */ 
 
 header {
 	display: block;
@@ -176,15 +176,13 @@ header {
 	text-align: center;
 }
 
-
-
-
 h1 {
 	padding-top: 28px;
 	float: left;
 	z-index: 999;
 
 }
+
 header h1 a {
 	display: block;
 	overflow: hidden;
@@ -213,10 +211,10 @@ header h1 a img {
 	content: '';
 	z-index: 1;
 	width: 0px;
-height: 0px;
-border-style: solid;
-border-width: 37px 50px 0 50px;
-border-color: #334960 transparent transparent transparent;
+	height: 0px;
+	border-style: solid;
+	border-width: 37px 50px 0 50px;
+	border-color: #334960 transparent transparent transparent;
 	left: 50%;
 	margin-left: -50px;
 	top: 0;
@@ -285,8 +283,6 @@ header.page2 .hover {
 	background-color: #e6655e;
 }
 
-
-
 #page3 {
 	background-color: #32ac97;
 	padding-top: 230px;
@@ -324,9 +320,6 @@ header.page5 .hover {
 	background-color: #37637f;
 }
 
-.content {
-}
-
 .slogan h3 {
 	margin-bottom: 30px;
 }
@@ -345,39 +338,13 @@ header.page5 .hover {
 	background-color: #7f4c76;
 }
 
-.socials {
-	padding-top: 45px;
-	text-align: center;
-	font-size: 0;
-	line-height: 0;
+#banner {
+	background-image: url(../images/banner.jpg);
+    background-position: center;      
+    background-size: cover;
+	height: 650px;
 }
 
-.socials a {
-	display: inline-block;
-	font-size: 0;
-	line-height: 0;
-	width: 69px;
-	height: 69px;
-	background: url(../images/socials.png) 0 0 no-repeat;
-}
-
-.socials a:hover {
-	opacity: 0.5;
-}
-
-.socials a+a {
-	margin-left: 18px;
-	background-position: -87px 0;
-}
-
-.socials a+a+a {
-	background-position: -175px 0;
-	margin-left: 19px;
-}
-
-.socials a+a+a+a {
-	background-position: right 0;
-}
 
 .text1 {
 	font-size: 19px;
@@ -409,8 +376,6 @@ header.page5 .hover {
 .slogan {
 	margin-bottom: 117px;
 }
-
-
 
 .socials1 {
 	margin-top: 19px;
