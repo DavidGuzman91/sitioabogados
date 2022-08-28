@@ -227,7 +227,7 @@ header h1 a img {
 }
 
 #page4:after {
-	border-color: #32ac97 transparent transparent transparent;
+	border-color: #223936 transparent transparent transparent;
 
 }
 
@@ -284,16 +284,16 @@ header.page2 .hover {
 }
 
 #page3 {
-	background-color: #32ac97;
+	background-color: #223936;
 	padding-top: 150px;
 }
 
 header.page3{
-	background-color: #32ac97;
+	background-color: #223936;
 }
 
 header.page3 .hover {
-	background-color: #46dcc7;
+	background-color: #375d58;
 }
 
 #page4 {
@@ -356,8 +356,8 @@ header.page5 .hover {
 	line-height: 25px;
 }
 .box {
-	background-color: #e6655e;
-	border: 3px solid #f4948b;
+	background-color: #334960;
+	border: 3px solid #506f90;
 	padding: 23px 0 24px;
 	border-top-width: 4px;
 	border-bottom-width: 4px;
@@ -417,20 +417,20 @@ header.page5 .hover {
 	padding-bottom: 190px;
 }
 
-#page3 .box {
+#page2 .box {
 	color: #fff;
 	background-color: #46dcc7;
 	border-color: #99d6cb;
 	padding: 22px 15px 27px;
 }
 
-#page3 .box img {
+#page2 .box img {
 	margin-bottom: 21px;
 	border-color: #c8f5ee;
 	background-color: #334960;
 }
 
-#page3 .box .text1 {
+#page2 .box .text1 {
 	margin-bottom: 16px;
 }
 
