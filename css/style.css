@@ -349,11 +349,20 @@ header.page5 .hover {
 .text1 {
 	font-size: 19px;
 	line-height: 19px;
+	
+}
+
+
+.text3 {
+	font-size: 19px;
+	line-height: 19px;
+	text-align: justify;
 }
 
 .text2{
 	font-size: 25px;
 	line-height: 25px;
+	text-align: justify;
 }
 .box {
 	background-color: #334960;
